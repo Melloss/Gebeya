@@ -19,5 +19,5 @@ After that It just say this
 On Admin DashBoard The ordered Product appear like this
 # ![image](https://github.com/Melloss/Gebeya/assets/101984338/0c05e3d6-72dc-4c04-9840-d583ca1ff5bc)
 
-using the product It the admin can move to the detail of the ordered product.
+using the product Id the Admin can move to the detail of the ordered product.
 # ![image](https://github.com/Melloss/Gebeya/assets/101984338/d6d1b716-acb7-4a32-8b0a-8126f539bfd3)
