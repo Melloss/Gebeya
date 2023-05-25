@@ -1,6 +1,6 @@
 # Gebeya
 This Website is used simply to anounce products and order what ever they like. 
-I only use .txt file to Challenge my self
+I only use Text file to Challenge my self
 
 # ![image](https://github.com/Melloss/Gebeya/assets/101984338/c6cf4b66-4d30-4e9e-b1a2-3f15f2005a2a)
 # ![image](https://github.com/Melloss/Gebeya/assets/101984338/29a7b9b4-a714-4f7e-acb0-fa148fc3fdf6)
